@@ -1,0 +1,11 @@
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmHasilPerhitungan.resources
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmCalculator.resources
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\PL\Tugas Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
